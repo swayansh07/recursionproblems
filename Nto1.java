@@ -1,6 +1,6 @@
 class Solution 
 {
-    void printNos(int N) 
+   public static void printNos(int N) 
     {
         if (N == 0)
         {
