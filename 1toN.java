@@ -1,5 +1,5 @@
 class Solution {
-    public void printTillN(int n) {
+    public static void printTillN(int n) {
         
         if (n == 0)
         {
